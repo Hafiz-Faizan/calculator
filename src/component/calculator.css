@@ -1,0 +1,16 @@
+.calculator {
+    display: flex;
+    width: 100%;
+  }
+  
+  .text {
+    
+  width: 50%;
+    color: black;
+    padding: 20px;
+  }
+  
+  .cal {
+   width: 50%;
+    padding: 20px;
+  }

@@ -1,0 +1,29 @@
+/* styles.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .navbar-left {
+    flex-grow: 1;
+  }
+  
+  .navbar-right {
+    display: flex;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: #555;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
